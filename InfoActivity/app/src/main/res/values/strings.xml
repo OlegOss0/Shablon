@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InfoActivity</string>
+    <string name="label_name">Имя</string>
+    <string name="label_save">Сохранить</string>
+    <string name="label_surname">Фамилия</string>
+    <string name="label_phone">телефон</string>
+    <string name="label_sity">Город</string>
+    <string name="label_zip">Индекс</string>
+    <string name="error_string">Поле не должно быть пустым</string>
+</resources>
